@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="RobotoViews">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../AndroidLibraries/RobotoViews/sample/src" />
+      <root url="file://$PROJECT_DIR$/../../AndroidLibraries/RobotoViews/library/gen" />
+      <root url="file://$PROJECT_DIR$/../../AndroidLibraries/RobotoViews/library/src" />
+    </SOURCES>
+  </library>
+</component>
