@@ -10,14 +10,14 @@
     <application android:label="@string/app_name"
                  android:icon="@drawable/ic_launcher"
                  android:theme="@android:style/Theme.Holo.Light.NoActionBar">
-        <activity android:name=".ContactList"
+        <activity android:name="com.example.SampleContactApp.ContactList"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".DetailedContactList"
+        <activity android:name="com.example.SampleContactApp.DetailedContactList"
                   android:screenOrientation="portrait"/>
     </application>
 </manifest>

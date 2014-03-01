@@ -126,7 +126,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1439" />
-    <option name="height" value="819" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -154,8 +154,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -191,10 +189,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SolsticeSampleContactApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -218,6 +212,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,6 +266,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -295,19 +304,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -419,13 +415,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1439" height="819" extended-state="0" />
+    <frame x="0" y="22" width="1439" height="824" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20071685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -434,7 +429,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1829436" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18306011" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -444,6 +439,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26721764" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20071685" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -474,72 +470,64 @@
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="37" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="435">
-          <folding>
-            <element signature="e#765#783#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="30" selection-start="3781" selection-end="3781" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="2025">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="121" column="0" selection-start="3963" selection-end="3963" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2970">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="73" column="29" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="1095" max-vertical-offset="1350" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/TestRestClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/TestRestClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="66" selection-start="2153" selection-end="2153" vertical-scroll-proportion="0.0" vertical-offset="704" max-vertical-offset="1545" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="47" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1560">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="72" column="32" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0" vertical-offset="1002" max-vertical-offset="1620" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="59" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2895">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="74" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1050" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/TestRestClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/TestRestClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="25" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="600" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="11" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1845">
           <folding />
@@ -554,17 +542,14 @@
         <state line="14" column="12" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1575" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="46" selection-start="702" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="2895">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="270">
           <folding />
@@ -579,22 +564,19 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="168" column="61" selection-start="5243" selection-end="5243" vertical-scroll-proportion="0.0" vertical-offset="2256" max-vertical-offset="2850">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="30" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1050" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/TestRestClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/TestRestClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="58" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="600" />
       </provider>
@@ -602,9 +584,7 @@
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="65" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="345">
-          <folding>
-            <element signature="e#765#783#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -616,22 +596,17 @@
         <state line="11" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="300" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="896" selection-end="896" vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="765">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="65" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="345">
-          <folding>
-            <element signature="e#765#783#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -643,22 +618,17 @@
         <state line="10" column="29" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="285" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="930">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="65" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="345">
-          <folding>
-            <element signature="e#765#783#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,19 +681,14 @@
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="43" selection-start="322" selection-end="322" vertical-scroll-proportion="0.15544042" vertical-offset="0" max-vertical-offset="579">
-          <folding>
-            <element signature="e#765#783#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/ContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/ContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="30" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.8215548" vertical-offset="0" max-vertical-offset="3090">
-          <folding>
-            <element signature="e#1193#3856#0" expanded="true" />
-            <element signature="e#3845#3846#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -737,21 +702,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/Contact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="13" selection-start="129" selection-end="129" vertical-scroll-proportion="-0.73275864" vertical-offset="530" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/FakeTrustManager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/FakeTrustManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="94" selection-start="862" selection-end="862" vertical-scroll-proportion="0.43399638" vertical-offset="0" max-vertical-offset="1140">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/TestRestClient.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/TestRestClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="53" selection-start="717" selection-end="717" vertical-scroll-proportion="0.26501766" vertical-offset="0" max-vertical-offset="566">
           <folding>
@@ -763,14 +728,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContactList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContactList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="93" column="22" selection-start="2731" selection-end="2731" vertical-scroll-proportion="1.5565372" vertical-offset="304" max-vertical-offset="2025">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/SolsticeSampleContactApp/DetailedContact.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/SampleContactApp/DetailedContact.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="19" selection-start="1467" selection-end="1467" vertical-scroll-proportion="0.5931284" vertical-offset="107" max-vertical-offset="660">
           <folding>

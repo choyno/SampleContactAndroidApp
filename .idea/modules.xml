@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SolsticeSampleContactApp.iml" filepath="$PROJECT_DIR$/SolsticeSampleContactApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SampleContactApp.iml" filepath="$PROJECT_DIR$/SampleContactApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../AndroidLibraries/RobotoViews/library/library.iml" filepath="$PROJECT_DIR$/../../AndroidLibraries/RobotoViews/library/library.iml" />
     </modules>
   </component>
